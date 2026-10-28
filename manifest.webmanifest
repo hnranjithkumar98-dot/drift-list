@@ -1,0 +1,14 @@
+{
+  "name": "DRIFT//LIST — JDM Watch Garage",
+  "short_name": "DRIFT LIST",
+  "description": "An Initial D-inspired car culture watchlist.",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080d12",
+  "theme_color": "#080d12",
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
