@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "DRIFT//LIST — JDM Watch Garage",
+  "short_name": "DRIFT LIST",
+  "description": "An Initial D-inspired car culture watchlist for movies, series, anime, YouTube channels and racing games.",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080d12",
+  "theme_color": "#080d12",
+  "categories": ["entertainment", "lifestyle"],
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
